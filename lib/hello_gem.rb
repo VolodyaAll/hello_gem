@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "hello_gem/version"
+require_relative 'hello_gem/version'
 
 module HelloGem
   def self.greet(name)
