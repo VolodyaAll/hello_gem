@@ -3,9 +3,9 @@
 require_relative "lib/hello_gem/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "hello_gem"
+  spec.name          = "hello_gem_rm"
   spec.version       = HelloGem::VERSION
-  spec.authors       = ["v.sharay", "volodya22all"]
+  spec.authors       = ["v.sharay"]
   spec.email         = ["volodya22all@gmail.com"]
 
   spec.summary       = "A simplest Ruby gem"
